@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <title>Timeless One-Page HTML Template</title>
+    <title>SATECH Android | DJIJDJOU Larissa 2020</title>
 <!-- 
 
 Timeless Template 
@@ -32,7 +32,7 @@ http://www.templatemo.com/tm-517-timeless
         <div class="row">
             <div class="col-lg-12">
                 <header class="text-center tm-site-header">
-                    <div class="tm-site-logo"><img src="img/logo.png" alt="Image" class="rounded-circle tm-img-timeline"></div>
+                    <img src="img/logo.png" width="60px" alt="Image" class="rounded-circle tm-img-timeline">
                     <h1 class="pl-4 tm-site-title">SATECH</h1>
                 </header>
             </div>
