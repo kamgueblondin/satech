@@ -184,7 +184,7 @@ http://www.templatemo.com/tm-517-timeless
                     <div class="form-group">
                         <textarea id="contact_message" name="contact_message" class="form-control" rows="6" placeholder="Votre Message..." required></textarea>
                     </div>
-                    <button type="submit" class="btn  tm-btn-send">Envoyer/button>
+                    <button type="submit" class="btn  tm-btn-send">Envoyer</button>
                 </form>
             </div>
         </div>
