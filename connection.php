@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db = "crud_android";
+$host = "sql7.freemysqlhosting.net";
+$user = "sql7367620";
+$pass = "EJqJiqleUU";
+$db = "sql7367620";
 
 $con = mysqli_connect($host,$user,$pass, $db);
 
