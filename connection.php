@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql7.freemysqlhosting.net";
-$user = "sql7367620";
-$pass = "EJqJiqleUU";
-$db = "sql7367620";
+$host = "sql2.freemysqlhosting.net";
+$user = "sql2370124";
+$pass = "kA6%wR6*";
+$db = "sql2370124";
 
 $con = mysqli_connect($host,$user,$pass, $db);
 
